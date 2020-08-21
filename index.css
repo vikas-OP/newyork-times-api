@@ -1,0 +1,14 @@
+.titlecard,
+.datecard,
+.abstractcard {
+  font-size: 0.85rem;
+  font-style: italic;
+}
+.datecard {
+  font-style: normal;
+}
+a,
+a:visited,
+a:active {
+  text-decoration: none;
+}
