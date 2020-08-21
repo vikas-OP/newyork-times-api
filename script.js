@@ -122,7 +122,7 @@ async function request(section) {
 
 function createCard(info) {
   let card = document.createElement("div");
-  card.setAttribute("class", "card m-3");
+  card.setAttribute("class", "card p-3 m-3");
   card.style.width = "100%";
   let row = document.createElement("div");
   row.setAttribute("class", "row");
